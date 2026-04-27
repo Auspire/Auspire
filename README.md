@@ -1,7 +1,5 @@
 # Auspire Digital Marketing
 
-## We're an Australian digital marketing company.
-
 Our work is focused on results you can measure: traffic that converts, ad spend that returns, and tracking that actually tells you what's working.
 
 ## Services
