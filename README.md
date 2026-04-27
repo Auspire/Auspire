@@ -4,8 +4,6 @@
 
 Our work is focused on results you can measure: traffic that converts, ad spend that returns, and tracking that actually tells you what's working.
 
----
-
 ## Services
 
 - **Search Engine Optimisation (SEO)** — Improve your organic search presence and build sustainable traffic over the long term.
@@ -14,9 +12,7 @@ Our work is focused on results you can measure: traffic that converts, ad spend 
 - **Google Analytics Setup & Configuration** — Analytics configured to give you a clear picture of user behaviour and campaign performance.
 - **Landing Page & Conversion Optimisation** — Improve conversion rates through testing and refinement, not guesswork.
 - **Social Media Advertising** — Targeted paid campaigns across key platforms to build awareness and generate leads.
-- **AI Optimisation** — Practical use of AI to improve marketing performance and reduce wasted effort.
-
----
+- **AI Optimisation** — Makes your content more likely to appear in AI generated answers.
 
 ## Our Approach
 
