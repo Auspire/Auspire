@@ -1,8 +1,8 @@
-# Auspire Digital Marketing 🇦🇺
+# Auspire Digital Marketing
 
-Our work is focused on results you can measure: traffic that converts, ad spend that returns, and tracking that actually tells you what's working.
+📊 Our work is focused on results you can measure: traffic that converts, ad spend that returns, and tracking that actually tells you what's working.
 
-## Services
+## 🧰 Services
 
 - **Search Engine Optimisation (SEO)** — Improve your organic search presence and build sustainable traffic over the long term.
 - **Pay-Per-Click (PPC) Management** — Strategic management of paid campaigns across Google Ads and beyond, with a focus on return on investment.
@@ -12,6 +12,6 @@ Our work is focused on results you can measure: traffic that converts, ad spend 
 - **Social Media Advertising** — Targeted paid campaigns across key platforms to build awareness and generate leads.
 - **AI Optimisation** — Makes your content more likely to appear in AI generated answers.
 
-## Our Approach
+## 🙏 Our Approach
 
-We're straightforward about what we do: combine strategic thinking with solid technical execution, back decisions with data, and keep clients across what's happening and why. No jargon, no vanity metrics.
+We combine strategic thinking with solid technical execution, back decisions with data, and keep clients across what's happening and why. No jargon, no vanity metrics.
