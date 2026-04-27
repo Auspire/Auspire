@@ -1,4 +1,4 @@
-# Auspire Digital Marketing
+# Auspire Digital Marketing 🇦🇺
 
 Our work is focused on results you can measure: traffic that converts, ad spend that returns, and tracking that actually tells you what's working.
 
