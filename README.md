@@ -1,17 +1,9 @@
 # Auspire Digital Marketing
 
-📊 Our work is focused on results you can measure: traffic that converts, ad spend that returns, and tracking that actually tells you what's working.
+🧑‍💻 Code we share with clients is not made public here on GitHub.
 
-## 🧰 Services
+## Looking for code we sent you?
 
-- **Search Engine Optimisation (SEO)** — Improve your organic search presence and build sustainable traffic over the long term.
-- **Pay-Per-Click (PPC) Management** — Strategic management of paid campaigns across Google Ads and beyond, with a focus on return on investment.
-- **Google Tag Manager Implementation** — Clean, reliable tracking setup so your data reflects what's actually happening on your site.
-- **Google Analytics Setup & Configuration** — Analytics configured to give you a clear picture of user behaviour and campaign performance.
-- **Landing Page & Conversion Optimisation** — Improve conversion rates through testing and refinement, not guesswork.
-- **Social Media Advertising** — Targeted paid campaigns across key platforms to build awareness and generate leads.
-- **AI Optimisation** — Makes your content more likely to appear in AI generated answers.
+If you have come here to look for code that we have sent you in the past, check your email instead. We typically send a *Gist*, which is found via a link to a page here in GitHub. Gists show code snippets and we usually send them configured specific to your project, so they are not made public.
 
-## 🙏 Our Approach
-
-We combine strategic thinking with solid technical execution, back decisions with data, and keep clients across what's happening and why. No jargon, no vanity metrics.
+📬 If you can't find the email we sent, contact us to request the link.
